@@ -28,6 +28,6 @@ void loop() {
     Serial.print(t);
     Serial.println(" *C");
   }
-  delay(2000);
+  delay(1000);
 }
 
