@@ -25,4 +25,4 @@ void setColor(int red, int green, int blue) //각각 인자를 받아 색을 출
   analogWrite(ledRed, red);   //red 핀의 값 입력   
   analogWrite(ledGreen, green); //green 핀의 값 입력
   analogWrite(ledBlue, blue);     //blue 핀의 값 입력
-}  
+}
