@@ -24,7 +24,7 @@ void loop()
        digitalWrite(ledPin,HIGH);  //led의 전원을 ON
      } else if(myString == "OFF") {   //블루투스 시리얼에 0이 입력되었다면
        digitalWrite(ledPin,LOW); //led의 전원을 OFF
-     }
+     } 
    }
 }
 
